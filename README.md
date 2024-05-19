@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @coleaskey32
-- 👀 I’m interested in ... Currently just learning python and hoping to look into ML
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... Coleaskey32@gmail.com
+- 👋 Hi, I’m Cole Askey
+-  I am a recent graduate in Computer Engineering at Penn State
+- 📫 How to reach me ... cza5331@psu.edu
 
 <!---
 coleaskey32/coleaskey32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
