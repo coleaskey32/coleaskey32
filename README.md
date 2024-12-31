@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cole Askey
 -  I am a recent graduate in Computer Engineering at Penn State
-- 📫 How to reach me ... cza5331@psu.edu
+- 📫 How to reach me ... coleaskey1@gmail.com
 
 <!---
 coleaskey32/coleaskey32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
